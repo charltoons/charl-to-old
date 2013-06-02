@@ -1,5 +1,0 @@
-{
-  "host": "charl.to",
-  "port": 3000,
-  "dburl": "https://username:password@username.cloudant.com/dbname"
-}
